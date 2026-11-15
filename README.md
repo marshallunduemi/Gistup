@@ -5,6 +5,20 @@
 
 We are building Gistup with scalability, security, and flexibility in mind, and we welcome developers and technology enthusiasts who want to contribute to its growth.
 
+## 🌐 Live Demo & Testing
+
+Want to explore Gistup?
+
+Visit our live demo:
+
+**🔗 Demo URL:** https://gistup.goxpresslabs.com/
+
+You can visit the platform to explore its interface and test its currently available features.
+
+We welcome developers, testers, and contributors to try Gistup and share feedback, report bugs, and suggest improvements.
+
+**Help us make Gistup better! 🚀**
+
 ---
 
 ## 🚀 About Gistup
